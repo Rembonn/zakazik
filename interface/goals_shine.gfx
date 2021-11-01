@@ -22342,7 +22342,7 @@ SpriteType = {
 	
 	SpriteType = {
 		name = "GFX_focus_GER_colonies_shine"
-		texturefile = "gfx/interface/goals/focus_GER_colonies.dds"
+		texturefile = "gfx/interface/goals/GER/focus_GER_colonies.dds"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
 			animationmaskfile = "gfx/interface/goals/GER/focus_GER_colonies.dds"
