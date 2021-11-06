@@ -11,6 +11,10 @@ freteezer
 medecinetr
 exos
 economyc_teor
+summer_clothing_tech
+winter_clothing_tech
+skadsk
+fisher
 	armor
 	cat_light_armor
 	cat_medium_armor
