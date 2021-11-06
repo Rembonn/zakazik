@@ -184,7 +184,7 @@ add_ideas = famine2
 				set_variable = { no = num_occupied_states }
 				divide_variable = { var = no value = 20 }
 				set_variable = { ms = num_divisions} 
-				divide_variable = { var = ms value = 50  }
+				divide_variable = { var = ms value = 32  }
 				set_variable = { grain_prodused = resource_produced@grain}
 				divide_variable = { var = grain_prodused value = 75 }
                                 multiply_variable = { var = grain_prodused value = doprov }

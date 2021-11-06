@@ -7,6 +7,7 @@
 ### search_filters = {FOCUS_FILTER_ANNEXATION}
 
 focus_tree = {
+
 	id = german_focus
 	
 	country = {
@@ -21,13 +22,13 @@ focus_tree = {
 	
 	default = no
  
-
+ 
 	focus = {
 		id = GER_russian_cooperation
-		icon = GFX_focus_GER_Peace_with_Russia
+		icon = GFX_focus_GER_Russia_Peace
 		x = 7
-		y = 1
-		cost = 0.75
+		y = 0
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		} 
@@ -42,14 +43,13 @@ focus_tree = {
 		}
 		
 	}
-	
 	focus = {
 		id = GER_entetne_peace
-		icon = GFX_focus_GER_Peace_with_Entente
+		icon = GFX_focus_GER_Entente_Peace
 		relative_position_id = GER_russian_cooperation
 		x = 2
 		y = 0
-		cost = 0.75
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		} 
@@ -71,7 +71,7 @@ focus_tree = {
 		relative_position_id = GER_russian_cooperation
 		x = 1
 		y = 1
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		} 
@@ -88,7 +88,7 @@ focus_tree = {
 		relative_position_id = GER_russian_cooperation
 		x = -1
 		y = 2
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		} 
@@ -106,7 +106,7 @@ focus_tree = {
 		relative_position_id = GER_russian_cooperation
 		x = 3
 		y = 4
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		}
@@ -278,7 +278,7 @@ tag = CRI
 		relative_position_id = GER_russian_cooperation
 		x = 4
 		y = 3
-		cost = 1.5
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		} 
@@ -333,7 +333,7 @@ tag = CRI
 		icon = GFX_focus_GER_diplomatic_mission_Morocco
 		x = -2
 		y = 3
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		} 
@@ -351,7 +351,7 @@ tag = CRI
 		icon = GFX_focus_GER_call_reichstag
 		x = 1
 		y = 5
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 12
 		} 
@@ -366,6 +366,4 @@ tag = CRI
 		}
 		
 	}
-	
-	GFX_focus_GER_call_reichstag
 }

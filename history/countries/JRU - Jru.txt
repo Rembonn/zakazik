@@ -22,5 +22,15 @@ set_popularities = {	democratic = 30	communism = 10	neutrality = 60
 
 
 
+		create_country_leader = {
+			name = "Ignatiy Checkster"
+			desc = "POLITICS_ign_mih_DESC"
+			picture = "ign_mih.dds"
+			expire = "1965.1.1"
+			ideology = despotism  
+			traits = {
+				 
+			}
+		}
 
 

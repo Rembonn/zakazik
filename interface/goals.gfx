@@ -3301,4 +3301,60 @@ spriteTypes = {
 		name = "GFX_focus_por_concordat"
 		texturefile = "gfx/interface/goals/focus_por_concordat.dds"
 	}
+	
+	
+	
+	
+	
+	
+	
+	####################################
+	
+	SpriteType = {
+		name = "GFX_focus_GER_heil_kaiser_dir"
+		texturefile = "gfx/interface/goals/GER/focus_GER_heil_kaiser_dir.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_colonies"
+		texturefile = "gfx/interface/goals/GER/focus_GER_colonies.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_consequences_gas_attacks"
+		texturefile = "gfx/interface/goals/GER/focus_GER_consequences_gas_attacks.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_demobilization"
+		texturefile = "gfx/interface/goals/GER/focus_GER_demobilization.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_diplomatic_mission_Morocco"
+		texturefile = "gfx/interface/goals/GER/focus_GER_diplomatic_mission_Morocco.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_Paris_conference"
+		texturefile = "gfx/interface/goals/GER/focus_GER_Paris_conference.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_Entente_Peace"
+		texturefile = "gfx/interface/goals/GER/focus_GER_Entente_Peace.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_Russia_Peace"
+		texturefile = "gfx/interface/goals/GER/focus_GER_Russia_Peace.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_Warsaw_conference"
+		texturefile = "gfx/interface/goals/GER/focus_GER_Warsaw_conference.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_japan_contract"
+		texturefile = "gfx/interface/goals/GER/focus_GER_japan_contract.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_call_reichstag"
+		texturefile = "gfx/interface/goals/GER/focus_GER_call_reichstag.dds"
+	}
+
+	
+	
 }

@@ -398,8 +398,6 @@ GER_war_never_changes
 GER_regional_power 
 GER_exp_army 
 GER_death_men 
-army_ras5  
-army_p_status5 
 } 
 
 activate_mission = GER_mefo_bills_mission
@@ -418,7 +416,7 @@ create_country_leader = {
 		create_country_leader = {
 			name = "Wilhelm II"
 			desc = "POLITICS_WILHELM_II_DESC"
-			picture = "wilhelm_not_old.dds"
+			picture = GFX_portrait_ger_wilhelm_ii
 			expire = "1965.1.1"
 			ideology = paternal_autocrat_subtype
 			traits = {
@@ -431,7 +429,7 @@ create_country_leader = {
 		create_country_leader = {
 			name = "Wilhelm II"
 			desc = "POLITICS_WILHELM_II_DESC"
-			picture = "wilhelm_not_old.dds"
+			picture = GFX_portrait_ger_wilhelm_ii
 			expire = "1965.1.1"
 			ideology = absolutist_subtype 
 			traits = {
