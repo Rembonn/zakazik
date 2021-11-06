@@ -11,7 +11,27 @@ leader_traits = {
 			factor = 1
 		}
 	}
+good_at_diplomacy = {
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+		opinion_gain_monthly_factor = 0.15
+		trade_opinion_factor = 0.5
 
+}
+		ign_min_led = {
+		random = no 
+		political_power_factor = -0.1
+		army_org_Factor = 0.1
+				army_core_attack_factor = 0.25
+				army_core_defence_factor = 0.25
+conscription_factor = 0.03
+		experience_gain_army_factor = 0.1
+		ai_will_do = {
+			factor = 1
+		}
+	}
 		instran1 = {
 		random = no
 		political_power_factor = -0.05
